@@ -1,0 +1,1 @@
+{"schemaVersion":"1","complete":true,"fields":[{"name":"label","type":"string","required":true,"minLength":5,"maxLength":4}]}
